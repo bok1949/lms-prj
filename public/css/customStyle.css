@@ -1,0 +1,109 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+.customclass {
+    background-color: brown;
+}
+.custom-header {
+    /* background-color: rgba(124, 23, 23, 0.993); */
+    /* background-color: rgba(94, 0, 0, 0.966); */
+    /* background-color: #800000; */
+    background-color: #9f1f21;
+    /* background-color: #a94c4c; */
+    /* background-color: #d23641; */
+    padding: 12px;
+    height: 80px;
+}
+.head-text {
+    color: #fff;
+    font-weight: bolder;
+    text-shadow: 2px 1px 1px #323232 /* #dee0d7 */;
+}
+
+/* .custom-side-menu h3 {
+    background-color: #396e86; */
+/* background-color: #b1893a; */
+/* background-color: #b1893a; */
+/* background-color: brown; */
+/*  color: #262626; */
+/*  color: #040e13;
+    font-weight: bold;
+    text-shadow: 1px 1px 1px #dee0d7;
+} */
+.table-custom {
+    padding: 0;
+}
+
+.addcourses {
+    margin-inline-start: 530px;
+}
+.listofcourses {
+    margin-left: 20px;
+}
+.instruction-textarea {
+    resize: none;
+}
+.instruction-label {
+    font-weight: bold;
+    margin-right: 4px;
+}
+/* *****Search Course*** */
+.search-container button {
+    float: right;
+    padding: 4px 18px;
+    margin-top: -36px;
+    margin-right: 1px;
+    background: #ddd;
+    font-size: 17px;
+    border-top-right-radius: 4px;
+    border-bottom-right-radius: 4px;
+    border: none;
+    cursor: pointer;
+}
+
+.search-container button:hover {
+    background: #ccc;
+}
+.ui-breadcrumb {
+    background-color: none !important;
+}
+.ui-breadcrumb {
+    background-image: none;
+}
+.mylistofclass-tbl {
+    font-size: 0.9em;
+}
+textarea[name="instruction"],
+textarea[name="question_desc"],
+textarea[name="question_desc_ar"] {
+    resize: none;
+}
+.texterea-resize-none {
+    resize: none;
+}
+.hide {
+    display: none;
+}
+.no-design td {
+    border: none !important;
+}
+#zebra {
+    background-color: #e0e0e0;
+}
+#take_eval_design {
+    border: 0px;
+    width: 100%;
+    height: 1.5em;
+}
+.tab-content-custom {
+    background-color: #f8fafc;
+    border-left: 1px solid #eff1f4;
+    border-right: 1px solid #eff1f4;
+    border-bottom: 1px solid #eff1f4;
+}
+
+.verticalScrollBar {
+    height: 380px;
+    overflow-y: scroll;
+}
